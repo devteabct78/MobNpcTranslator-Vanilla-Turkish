@@ -8,6 +8,27 @@ local function TranslateUnitName(originalName)
     return originalName
 end
 
+-- [TÜRKÇE KARAKTER FIX] Yazı nesnesine güvenli ve Türkçe destekli font nesnesini basar
+local function ApplySafeFont(fontStringObject, size)
+    if not fontStringObject then return end
+    
+    -- Harici font dosyası yüklemek yerine, oyunun kendi içindeki 
+    -- en geniş karakter kümesine sahip (Chat/System) font şablonunu referans alıyoruz.
+    if ChatFontNormal and fontStringObject.SetFont then
+        local fontPath, _, fontFlags = ChatFontNormal:GetFont()
+        if fontPath then
+            fontStringObject:SetFont(fontPath, size or 13, fontFlags)
+            return true
+        end
+    end
+    
+    -- Alternatif Fallback (Eğer üstteki başarısız olursa oyun standartına sadık kal)
+    if GameFontNormal and fontStringObject.SetFontObject then
+        fontStringObject:SetFontObject(GameFontNormal)
+    end
+    return false
+end
+
 -- [AKILLI BÖLGE TARAYICISI] Nesne ismi ne olursa olsun ekranda mob adını basan FontString'i bulur
 local function FindNameObject(frame, nameToFind)
     if not frame then return nil end
@@ -44,7 +65,7 @@ local function DoTargetTranslation()
             -- Öncelik: Standart Blizzard arayüz ismini kontrol et
             local nameFrame = getglobal("TargetFrameName")
             
-            -- [KESİN ÇÖZÜM] Eğer bulunamadıysa (resim_3.png), TargetFrame içindeki yazıyı dinamik olarak avla!
+            -- Eğer bulunamadıysa, TargetFrame içindeki yazıyı dinamik olarak avla
             if not nameFrame then
                 local baseFrame = getglobal("TargetFrame")
                 if baseFrame then
@@ -52,8 +73,9 @@ local function DoTargetTranslation()
                 end
             end
             
-            -- Yazı nesnesi nihayet yakalandıysa metni Türkçe haliyle değiştiriyoruz
+            -- Yazı nesnesi yakalandıysa Türkçe karakter ayarını yapıp ismi basıyoruz
             if nameFrame and nameFrame.SetText then
+                ApplySafeFont(nameFrame, 13) -- Karakter fix uygulandı
                 nameFrame:SetText(TranslateUnitName(rawName))
             end
         end
@@ -89,7 +111,7 @@ MNT_Frame:RegisterEvent("QUEST_COMPLETE")
 MNT_Frame:SetScript("OnEvent", function()
     if event == "PLAYER_ENTERING_WORLD" then
         if DEFAULT_CHAT_FRAME then
-            DEFAULT_CHAT_FRAME:AddMessage("|cff00ff00[MobNpcTranslator] Dinamik Tarayıcı Aktif Edildi!|r")
+            DEFAULT_CHAT_FRAME:AddMessage("|cff00ff00[MobNpcTranslator] Türkçe Karakter Desteği Aktif Edildi!|r")
         end
     elseif event == "PLAYER_TARGET_CHANGED" then
         TriggerDelayedTranslation()
@@ -99,6 +121,7 @@ MNT_Frame:SetScript("OnEvent", function()
             if rawName then
                 local trName = TranslateUnitName(rawName)
                 if GameTooltipTextLeft1:GetText() ~= trName then
+                    ApplySafeFont(GameTooltipTextLeft1, 14) -- Karakter fix uygulandı
                     GameTooltipTextLeft1:SetText(trName)
                     GameTooltip:Show()
                 end
@@ -109,8 +132,10 @@ MNT_Frame:SetScript("OnEvent", function()
         if npcName then
             local trName = TranslateUnitName(npcName)
             if event == "GOSSIP_SHOW" and GossipFrameNpcNameText then
+                ApplySafeFont(GossipFrameNpcNameText, 16) -- Karakter fix uygulandı
                 GossipFrameNpcNameText:SetText(trName)
             elseif (event == "QUEST_GREETING" or event == "QUEST_DETAIL" or event == "QUEST_PROGRESS" or event == "QUEST_COMPLETE") and QuestFrameNpcNameText then
+                ApplySafeFont(QuestFrameNpcNameText, 16) -- Karakter fix uygulandı
                 QuestFrameNpcNameText:SetText(trName)
             end
         end
