@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: MobNpcTranslator-Vanilla-Turkish
+## Notes: Hedef çerçevesi ve Tooltip üzerindeki NPC/Mob isimlerini Türkçeleştirir.
+## Author: Fuat
+## Version: 1.0
+
+MobNpcData.lua
+MobNpcTranslator.lua
