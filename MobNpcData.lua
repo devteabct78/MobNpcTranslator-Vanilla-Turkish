@@ -2571,4 +2571,6 @@ MobNpcTranslator_Data = {
 [ "Leech Stalker" ] = "Sinsi Kan Emici",
 [ "Cave Stalker" ] = "Mağara Pusucusu",
 --OctoWow Custom MoB/NPC Below
+["High Elf Refugee"] = "Yüksek Elf Mülteci",
+
 }
