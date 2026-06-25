@@ -2587,6 +2587,7 @@ MobNpcTranslator_Data = {
 ["Redridge Mystic"]="Kızılkaya Mistiği",
 ["Redridge Drudger"]="Kızılkaya Irgatı",
 ["Redridge Basher"]="Kızılkaya Ezicisi",
+["Fleshripper"]="Etparçalayan",
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
 
