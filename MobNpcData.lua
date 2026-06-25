@@ -2580,7 +2580,9 @@ MobNpcTranslator_Data = {
 ["Shadowhide Conjurer"]="Gölgederi Çağrışımcı",
 ["Shadowhide Warlock"]="Gölgederi Büyücüsü",
 ["Shadowhide Summoner"]="Gölgederi Çağırıcı",
-
+["Blackrock Outrunner"]="Blackrock Öncüsü",
+["Blackrock Grunt"]="Blackrock Piyadesi",
+["Blackrock Summoner"]="Blackrock Çağırıcısı",
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
 
