@@ -2588,7 +2588,22 @@ MobNpcTranslator_Data = {
 ["Redridge Drudger"]="Kızılkaya Irgatı",
 ["Redridge Basher"]="Kızılkaya Ezicisi",
 ["Fleshripper"]="Etparçalayan",
+["Riverpaw Taskmaster"]="Riverpaw Gözcüsü",
+["Riverpaw Overseer"]="Riverpaw Denetçisi",
+["Riverpaw Brute"]="Riverpaw Azmanı",
+["Riverpaw Shaman"]="Riverpaw Şamanı",
+["Riverpaw Gnoll"]="Riverpaw Gnoll",
+["Riverpaw Mystic"]="Riverpaw Mistiği",
+["Riverpaw Runt"]="Riverpaw Cücesi",
+["Riverpaw Outrunner"]="Riverpaw Öncüsü",
+["Riverpaw Herbalist"]="Riverpaw Bitkibilimcisi",
+["Watcher Dodds"]="Gözcü Dodds",
+["Watcher Paige"]="Gözcü Paige",
+["Watcher Cutford"]="Gözcü Cutford",
+
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
+["Silver Fox"]="Gümüş Tilki",
+
 
 }
