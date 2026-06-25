@@ -2580,9 +2580,10 @@ MobNpcTranslator_Data = {
 ["Shadowhide Conjurer"]="Gölgederi Çağrışımcı",
 ["Shadowhide Warlock"]="Gölgederi Büyücüsü",
 ["Shadowhide Summoner"]="Gölgederi Çağırıcı",
-["Blackrock Outrunner"]="Blackrock Öncüsü",
-["Blackrock Grunt"]="Blackrock Piyadesi",
-["Blackrock Summoner"]="Blackrock Çağırıcısı",
+["Blackrock Outrunner"]="Karakaya Öncüsü",
+["Blackrock Grunt"]="Karakaya Piyadesi",
+["Blackrock Summoner"]="Karakaya Çağırıcısı",
+["Blackrock Sentry"]="Karakaya Nöbetçisi",
 ["Redridge Brute"]="Kızılkaya Azmanı",
 ["Redridge Mystic"]="Kızılkaya Mistiği",
 ["Redridge Drudger"]="Kızılkaya Irgatı",
@@ -2600,6 +2601,7 @@ MobNpcTranslator_Data = {
 ["Watcher Dodds"]="Gözcü Dodds",
 ["Watcher Paige"]="Gözcü Paige",
 ["Watcher Cutford"]="Gözcü Cutford",
+["Ardo Dirtpaw"]="Ardo Kirlipençe",
 
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
