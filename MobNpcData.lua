@@ -2583,6 +2583,10 @@ MobNpcTranslator_Data = {
 ["Blackrock Outrunner"]="Blackrock Öncüsü",
 ["Blackrock Grunt"]="Blackrock Piyadesi",
 ["Blackrock Summoner"]="Blackrock Çağırıcısı",
+["Redridge Brute"]="Kızılkaya Azmanı",
+["Redridge Mystic"]="Kızılkaya Mistiği",
+["Redridge Drudger"]="Kızılkaya Irgatı",
+["Redridge Basher"]="Kızılkaya Ezicisi",
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
 
