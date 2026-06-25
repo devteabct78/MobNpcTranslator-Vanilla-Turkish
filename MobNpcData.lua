@@ -2570,6 +2570,17 @@ MobNpcTranslator_Data = {
 [ "Prince Valanar" ] = "Prens Valanar",
 [ "Leech Stalker" ] = "Sinsi Kan Emici",
 [ "Cave Stalker" ] = "Mağara Pusucusu",
+["Shadowhide Gnoll"]="Gölgederi Gnoll",
+["Shadowhide Warrior"]="Gölgederi Savaşçısı",
+["Rabid Shadowhide Gnoll"]="Kudurmuş Gölgederi Gnoll",
+["Shadowhide Brute"]="Gölgederi Azmanı",
+["Shadowhide Darkweaver"]="Gölgederi Gecebükücü",
+["Shadowhide Assassin"]="Gölgederi Suikastçısı",
+["Shadowhide Slayer"]="Gölgederi Katili",
+["Shadowhide Conjurer"]="Gölgederi Çağrışımcı",
+["Shadowhide Warlock"]="Gölgederi Büyücüsü",
+["Shadowhide Summoner"]="Gölgederi Çağırıcı",
+
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
 
