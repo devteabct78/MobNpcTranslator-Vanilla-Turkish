@@ -308,7 +308,7 @@ MobNpcTranslator_Data = {
 [ "Panther" ] = "Panter",
 [ "Kebok" ] = "Kebok",
 [ "Private Thorsen" ] = "Er Thorsen",
-[ "Brother Nimetz" ] = "Brother Nimetz",
+[ "Brother Nimetz" ] = "Birader Nimetz",
 [ "Adolescent Whelp" ] = "Genç Ejderha Yavrusu",
 [ "Dreaming Whelp" ] = "Rüya Gören Ejderha Yavrusu",
 [ "Green Wyrmkin" ] = "Yeşil Ejderha Soyu",
@@ -441,7 +441,7 @@ MobNpcTranslator_Data = {
 [ "Rotted One" ] = "Çürümüş Olan",
 [ "Carrion Recluse" ] = "Leş Keşiş Örümceği",
 [ "Swamp Talker" ] = "Bataklık Konuşkanı",
-[ "Brother Neals" ] = "Brother Neals",
+[ "Brother Neals" ] = "Birader Neals",
 [ "Sergeant De Vries" ] = "Çavuş De Vries",
 [ "Deputy Rainer" ] = "Şerif Yardımcısı Rainer",
 [ "Mosshide Gnoll" ] = "Mosshide Gnoll'u",
@@ -573,7 +573,7 @@ MobNpcTranslator_Data = {
 [ "Zardeth of the Black Claw" ] = "Zardeth of the Black Claw",
 [ "Helgrum the Swift" ] = "Helgrum the Swift",
 [ "Fel'zerul" ] = "Fel'zerul",
-[ "Brother Kristoff" ] = "Brother Kristoff",
+[ "Brother Kristoff" ] = "Birader Kristoff",
 [ "Zanzil the Outcast" ] = "Zanzil the Outcast Zombisi",
 [ "Zanzil the Outcast" ] = "Zanzil the Outcast Avcısı",
 [ "Zanzil the Outcast" ] = "Zanzil the Outcast Cadı Doktoru",
@@ -2093,7 +2093,7 @@ MobNpcTranslator_Data = {
 [ "Spitelash Battlemaster" ] = "Spitelash Savaş Ustası",
 [ "Spitelash Enchantress" ] = "Spitelash Büyücüsü",
 [ "Erelas Ambersky" ] = "Erelas Ambersky",
-[ "Brother Sarno" ] = "Brother Sarno",
+[ "Brother Sarno" ] = "Birader Sarno",
 [ "Norgannon" ] = "Norgannon'un Taş Gözcüsü",
 [ "Master Mechanic Castpipe" ] = "Baş Makinist Castpipe",
 [ "Gammerita" ] = "Gammerita",
@@ -2589,13 +2589,20 @@ MobNpcTranslator_Data = {
 ["Watcher Cutford"]="Gözcü Cutford",
 ["Ardo Dirtpaw"]="Ardo Kirlipençe",
 ["Servant of Azora"]="Azora'nın Hizmetkârı",
-
-
+["Sheep"]="Koyun",
+["Northshire Guard"]="Kuzeybucağı Muhafızı",
+["Marshal McBride"]="Mareşal McBride",
+["Brother Paxton"]="Birader Paxton",
+["Nortshire Peasant"]="Kuzeybucağı Köylüsü",
+["Cat"]="Kedi",
+["Kira Songshine"]="Kira Şarkıışıltısı",
 
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
 ["Silver Fox"]="Gümüş Tilki",
 ["Lesser Arcane Elemental"]="Küçük Arkane Elementali",
+["Little Cow"]="Küçük İnek",
+
 
 
 }
