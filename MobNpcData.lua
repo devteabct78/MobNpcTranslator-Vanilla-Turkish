@@ -2588,6 +2588,8 @@ MobNpcTranslator_Data = {
 ["Watcher Paige"]="Gözcü Paige",
 ["Watcher Cutford"]="Gözcü Cutford",
 ["Ardo Dirtpaw"]="Ardo Kirlipençe",
+["Servant of Azora"]="Azora'nın Hizmetkârı",
+
 
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
