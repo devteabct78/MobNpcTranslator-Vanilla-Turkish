@@ -83,7 +83,7 @@ MobNpcTranslator_Data = {
 [ "Morgan Pestle" ] = "Morgan Pestle",
 [ "Riding Horse (Brown)" ] = "Binek Atı (Kahverengi)",
 [ "Murloc" ] = "Murloc",
-[ "Jitters" ] = "Jitters",
+[ "Jitters" ] = "Titrek",
 [ "Marshal Haggard" ] = "Mareşal Haggard",
 [ "Caretaker Folsom" ] = "Kâhya Folsom",
 [ "Young Wolf" ] = "Genç Kurt",
@@ -2581,6 +2581,7 @@ MobNpcTranslator_Data = {
 ["Nortshire Peasant"]="Kuzeybucağı Köylüsü",
 ["Cat"]="Kedi",
 ["Kira Songshine"]="Kira Şarkıışıltısı",
+
 
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
