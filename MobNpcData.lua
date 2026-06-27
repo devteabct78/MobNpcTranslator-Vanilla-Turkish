@@ -2553,8 +2553,10 @@ MobNpcTranslator_Data = {
 ["Blackrock Grunt"]="Karakaya Piyadesi",
 ["Blackrock Summoner"]="Karakaya Çağırıcısı",
 ["Blackrock Sentry"]="Karakaya Nöbetçisi",
-["Blackrock Shadowcaster"]="Blackrock Gölge Büyücüsü",
-["Blackrock Hunter"]="Blackrock Avcısı",
+["Blackrock Shadowcaster"]="Karakaya Gölge Büyücüsü",
+["Blackrock Hunter"]="Karakaya Avcısı",
+["Blackrock Tracker"]="Karakaya İzcisi",
+["Blackrock Scout"]="Karakaya Scout",
 ["Redridge Brute"]="Kızılkaya Azmanı",
 ["Redridge Mystic"]="Kızılkaya Mistiği",
 ["Redridge Drudger"]="Kızılkaya Irgatı",
@@ -2588,7 +2590,11 @@ MobNpcTranslator_Data = {
 ["Silver Fox"]="Gümüş Tilki",
 ["Lesser Arcane Elemental"]="Küçük Arkane Elementali",
 ["Little Cow"]="Küçük İnek",
-
+["Young Thalassian Boar"]="Genç Thalassian Domuzu",
+["Thalassian Boar"]="Thalassian Domuzu",
+["Young Crimson Lynx"]="Genç Al Vaşak",
+["Crimson Lynx"]="Al Vaşak",
+["Forest Hawkstrider"]="Orman Şahinbineği",
 
 
 }
