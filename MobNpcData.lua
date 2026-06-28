@@ -2583,6 +2583,10 @@ MobNpcTranslator_Data = {
 ["Nortshire Peasant"]="Kuzeybucağı Köylüsü",
 ["Cat"]="Kedi",
 ["Kira Songshine"]="Kira Şarkıışıltısı",
+["Councilman Millstipe"]="Konsey Üyesi Millstipe",
+["Ambassador Beryybuck"]="Elçi Beryybuck",
+
+
 
 
 --OctoWow Custom MoB/NPC Below
