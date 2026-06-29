@@ -2595,6 +2595,9 @@ MobNpcTranslator_Data = {
 ["Councilman Millstipe"]="Konsey Üyesi Millstipe",
 ["Ambassador Beryybuck"]="Elçi Beryybuck",
 ["Fetid Corpse"]="Kokuşmuş Ceset",
+["Protector Leick"]="Koruyucu Leick",
+["Protector Deni"]="Koruyucu Deni",
+
 
 
 
