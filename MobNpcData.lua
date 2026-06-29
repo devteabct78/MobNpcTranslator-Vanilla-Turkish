@@ -38,6 +38,7 @@ MobNpcTranslator_Data = {
 [ "Nehirpençesi Overseer" ] = "Nehirpençesi Denetçisi",
 [ "Murloc Coastrunner" ] = "Murloc Sahil Koşucusu",
 [ "Murloc Tidehunter" ] = "Murloc Dalga Avcısı",
+[ "Fleshripper"]="Etkoparan",
 [ "Greater Fleshripper" ] = "Büyük Etkoparan",
 [ "Goretusk" ] = "Kanlıdiş",
 [ "Murloc Warrior" ] = "Murloc Savaşçısı",
@@ -2414,6 +2415,7 @@ MobNpcTranslator_Data = {
 [ "Major Mattingly" ] = "Binbaşı Mattingly",
 [ "Seeker Cromwell" ] = "Arayıcı Cromwell",
 [ "Officer Jaxon" ] = "Subay Jaxon",
+[ "Officer Areyn" ] = "Subay Areyn",
 [ "Grimmaw" ] = "Grimmaw",
 [ "Mor'zul Bloodbringer" ] = "Mor'zul Bloodbringer",
 [ "Gorzeeki Wildeyes" ] = "Gorzeeki Wildeyes",
@@ -2561,16 +2563,15 @@ MobNpcTranslator_Data = {
 ["Redridge Mystic"]="Kızılkaya Mistiği",
 ["Redridge Drudger"]="Kızılkaya Irgatı",
 ["Redridge Basher"]="Kızılkaya Ezicisi",
-["Fleshripper"]="Etparçalayan",
-["Riverpaw Taskmaster"]="Riverpaw Gözcüsü",
-["Riverpaw Overseer"]="Riverpaw Denetçisi",
-["Riverpaw Brute"]="Riverpaw Azmanı",
-["Riverpaw Shaman"]="Riverpaw Şamanı",
-["Riverpaw Gnoll"]="Riverpaw Gnoll",
-["Riverpaw Mystic"]="Riverpaw Mistiği",
-["Riverpaw Runt"]="Riverpaw Cücesi",
-["Riverpaw Outrunner"]="Riverpaw Öncüsü",
-["Riverpaw Herbalist"]="Riverpaw Bitkibilimcisi",
+["Riverpaw Taskmaster"]="Nehirpençesi Gözcüsü",
+["Riverpaw Overseer"]="Nehirpençesi Denetçisi",
+["Riverpaw Brute"]="Nehirpençesi Azmanı",
+["Riverpaw Shaman"]="Nehirpençesi Şamanı",
+["Riverpaw Gnoll"]="Nehirpençesi Gnoll",
+["Riverpaw Mystic"]="Nehirpençesi Mistiği",
+["Riverpaw Runt"]="Nehirpençesi Cücesi",
+["Riverpaw Outrunner"]="Nehirpençesi Öncüsü",
+["Riverpaw Herbalist"]="Nehirpençesi Bitkibilimcisi",
 ["Night Watch Guard"]="Gece Nöbetçisi",
 ["Watcher Dodds"]="Gözcü Dodds",
 ["Watcher Paige"]="Gözcü Paige",
@@ -2583,6 +2584,8 @@ MobNpcTranslator_Data = {
 ["Watcher Ladimore"]="Gözcü Ladimore",
 ["Watcher Jordan"]="Gözcü Jordan",
 ["Watcher Mocarski"]="Gözcü Mocarski",
+["Watcher Jon"]="Gözcü Jon",
+["Watcher Petras"]="Gözcü Petras",
 ["Ardo Dirtpaw"]="Ardo Kirlipençe",
 ["Servant of Azora"]="Azora'nın Hizmetkârı",
 ["Sheep"]="Koyun",
@@ -2602,6 +2605,7 @@ MobNpcTranslator_Data = {
 
 
 
+
 --OctoWow Custom MoB/NPC Below
 ["High Elf Refugee"] = "Yüksek Elf Mülteci",
 ["Silver Fox"]="Gümüş Tilki",
@@ -2612,6 +2616,9 @@ MobNpcTranslator_Data = {
 ["Young Crimson Lynx"]="Genç Al Vaşak",
 ["Crimson Lynx"]="Al Vaşak",
 ["Forest Hawkstrider"]="Orman Şahinbineği",
+["Apprentice Training Dummy"]="Çırak Talim Kuklası",
+["Expert Training Dummy"]="Uzman Talim Kuklası",
+["Heroic Training Dummy"]="Kahramanlık Talim Kuklası",
 
 
 }
