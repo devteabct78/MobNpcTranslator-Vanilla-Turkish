@@ -12,6 +12,7 @@ MobNpcTranslator_Data = {
 [ "Ruklar the Trapper" ] = "Tuzakçı Ruklar",
 [ "Thuros Lightfingers" ] = "Thuros Lightfingers",
 [ "Stormwind City Guard" ] = "Stormwind Şehir Muhafızı",
+[ "Stormwind Guard" ] = "Stormwind Muhafızı",
 [ "Timber Wolf" ] = "Orman Kurdu",
 [ "Narg the Taskmaster" ] = "Narg the Taskmaster",
 [ "Kobold Laborer" ] = "Kobold İşçi",
