@@ -2586,6 +2586,7 @@ MobNpcTranslator_Data = {
 ["Watcher Jordan"]="Gözcü Jordan",
 ["Watcher Mocarski"]="Gözcü Mocarski",
 ["Watcher Jon"]="Gözcü Jon",
+["Watcher Jan"]="Gözcü Jan",
 ["Watcher Petras"]="Gözcü Petras",
 ["Watcher Keller"]="Gözcü Keller",
 ["Ardo Dirtpaw"]="Ardo Kirlipençe",
@@ -2603,6 +2604,19 @@ MobNpcTranslator_Data = {
 ["Protector Leick"]="Koruyucu Leick",
 ["Protector Deni"]="Koruyucu Deni",
 ["Stormpike Emissary"]="Fırtınamızrağı Elçisi",
+["Auberdine Sentinel"]="Auberdine Gözcüsü",
+["Young Black Bear"]="Genç Kara Ayı",
+["Large Crag Boar"]="Büyük Kayalık Domuzu",
+["Winter Wolf"]="Kış Kurdu",
+["Elder Crag Boar"]="Yaşlı Kayalık Yaban Domuzu",
+["Scarred Crag Boar"]="Yaralı Kayalık Yaban Domuzu",
+["Ice Claw Bear"]="Buz Pençe Ayı",
+["Snow Leopard"]="Kar Parsı",
+["Young Arctic Fox"]="Genç Kutup Tilkisi",
+["Rockjaw Backbreaker"]="Kayaçene Belkıran",
+["Rockjaw Ambusher"]="Kayaçene Pusucu",
+["Elder Black Bear"]="Yaşlı Kara Ayı",
+["Menethil Sentry"]="Menethil Gözcüsü",
 
 
 
