@@ -2560,6 +2560,7 @@ MobNpcTranslator_Data = {
 ["Blackrock Hunter"]="Karakaya Avcısı",
 ["Blackrock Tracker"]="Karakaya İzcisi",
 ["Blackrock Scout"]="Karakaya Scout",
+["Blackrock Invader"]="Karakaya İstilacısı",
 ["Redridge Brute"]="Kızılkaya Azmanı",
 ["Redridge Mystic"]="Kızılkaya Mistiği",
 ["Redridge Drudger"]="Kızılkaya Irgatı",
@@ -2652,6 +2653,10 @@ MobNpcTranslator_Data = {
 ["Goldpelt Bear"]="Altınpost Ayı",
 ["Guard Mike"]="Muhafız Mike",
 ["Guard Caspar"]="Muhafız Caspar",
+["Timber Wolf Alpha"]="Lider Kereste Kurdu",
+["Burly Goldbristle Boar"]="İri Altınkıl Yaban Domuzu",
+["Swift White Steed"]="Süratli Beyaz Küheylan",
+["Inquisitor Abbadon"]="Engizisyoncu Abbadon",
 
 
 }
