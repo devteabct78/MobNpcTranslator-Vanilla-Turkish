@@ -2647,8 +2647,11 @@ MobNpcTranslator_Data = {
 ["Elder Timber Wolf"]="Yaşlı Kereste Kurdu",
 ["Amberpaw Scout"]="Kehribarpençe Gözcüsü",
 ["Amberpaw Gnoll"]="Kehribarpençe Gnoll",
+["Amberpaw Shaman"]="Kehribarpençe Şamanı",
+["Northwind Guard"]="Kuzeyrüzgarı Muhafızı",
 ["Goldpelt Bear"]="Altınpost Ayı",
 ["Guard Mike"]="Muhafız Mike",
+["Guard Caspar"]="Muhafız Caspar",
 
 
 }
