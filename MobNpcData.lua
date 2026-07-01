@@ -2617,7 +2617,7 @@ MobNpcTranslator_Data = {
 ["Rockjaw Ambusher"]="Kayaçene Pusucu",
 ["Elder Black Bear"]="Yaşlı Kara Ayı",
 ["Menethil Sentry"]="Menethil Gözcüsü",
-
+["Commander Althea Ebonlocke"]="Komutan Althea Ebonlocke",
 
 
 
@@ -2635,6 +2635,20 @@ MobNpcTranslator_Data = {
 ["Apprentice Training Dummy"]="Çırak Talim Kuklası",
 ["Expert Training Dummy"]="Uzman Talim Kuklası",
 ["Heroic Training Dummy"]="Kahramanlık Talim Kuklası",
+["Stormwind Harbor"]="Fırtınayeli Limanı",
+["Vice Admiral Renhoff"]="Koramiral Renhoff",
+["Commando Harwall"]="Komando Harwall",
+["Quartermaster Alden"]="Levazım subayı Alden",
+["Marine Larwell"]="Bahriyeli Larwell",
+["Logger"]="Oduncu",
+["Young Goldbristle Boar"]="Genç Altınkıl Yaban Domuzu",
+["Goldbristle Boar"]="Altınkıl Yaban Domuzu",
+["Young Timber Wolf"]="Genç Kereste Kurdu",
+["Elder Timber Wolf"]="Yaşlı Kereste Kurdu",
+["Amberpaw Scout"]="Kehribarpençe Gözcüsü",
+["Amberpaw Gnoll"]="Kehribarpençe Gnoll",
+["Goldpelt Bear"]="Altınpost Ayı",
+["Guard Mike"]="Muhafız Mike",
 
 
 }
