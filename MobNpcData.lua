@@ -2657,6 +2657,9 @@ MobNpcTranslator_Data = {
 ["Burly Goldbristle Boar"]="İri Altınkıl Yaban Domuzu",
 ["Swift White Steed"]="Süratli Beyaz Küheylan",
 ["Inquisitor Abbadon"]="Engizisyoncu Abbadon",
+["Colonel Driscol"]="Albay Driscol",
+["Northwind Quacker"]="Kuzeyrüzgarı Vakvağı",
+
 
 
 }
