@@ -20,6 +20,7 @@ MobNpcTranslator_Data = {
 [ "Rock Elemental" ] = "Kaya Elementali",
 [ "Defias Cutpurse" ] = "Defias Yankesicisi",
 [ "Defias Smuggler" ] = "Defias Kaçakçısı",
+[ "Defias Robber" ] = "Defias Hırsızı",
 [ "Nehirpençesi Runt" ] = "Nehirpençesi Cücesi",
 [ "Nehirpençesi Taskmaster" ] = "Nehirpençesi İşbaşı",
 [ "Morgaine the Sly" ] = "Morgaine the Sly",
@@ -414,7 +415,7 @@ MobNpcTranslator_Data = {
 [ "Splinter Fist Ogre" ] = "Splinter Fist Ogre'ı",
 [ "Fawn" ] = "Genç Geyik",
 [ "Splinter Fist Fire Weaver" ] = "Splinter Fist Ateşdokuyucusu",
-[ "Splinter Fist Taskmaster" ] = "Splinter Fist İşbaşı",
+[ "Splinter Fist Taskmaster" ] = "Splinter Fist Ustabaşı",
 [ "Lars" ] = "Lars",
 [ "Bailiff Conacher" ] = "Mübaşir Conacher",
 [ "Guard Howe" ] = "Muhafız Howe",
@@ -2659,7 +2660,7 @@ MobNpcTranslator_Data = {
 ["Inquisitor Abbadon"]="Engizisyoncu Abbadon",
 ["Colonel Driscol"]="Albay Driscol",
 ["Northwind Quacker"]="Kuzeyrüzgarı Vakvağı",
-
+["Squirrel"] = "Sincap",
 
 
 }
