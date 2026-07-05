@@ -824,7 +824,7 @@ MobNpcTranslator_Data = {
 [ "Kyra Starsong" ] = "Muhafız Kyra Starsong",
 [ "Gilshalan Windwalker" ] = "Gilshalan Windwalker",
 [ "Syral Bladeleaf" ] = "Syral Bladeleaf",
-[ "Valstag Ironjaw" ] = "Valstag Ironjaw",
+[ "Valstag Ironjaw" ] = "Valstag Demirçene",
 [ "Giant Wetlands Crocolisk" ] = "Dev Sulakalan Timsahı",
 [ "Chieftain Nek'rosh" ] = "Reis Nek'rosh",
 [ "Einar Stonegrip" ] = "Einar Stonegrip",
@@ -2664,5 +2664,14 @@ MobNpcTranslator_Data = {
 ["Northwind Quacker"]="Kuzeyrüzgarı Vakvağı",
 ["Squirrel"] = "Sincap",
 ["Booty Bay Bruiser"]="Ganimet Koyu Fedaisi",
+["Captain Snowbeard"]="Kaptan Karsakal",
+["Ormus Grindelbeard"]="Ormus Akarsakal",
+["Lord Commander Ryke"]="Yüce Komutan Ryke",
+["Toad"]="Kurbağa",
+["Red Whelp"]="Kızıl Ejdercik",
+["Lost Whelp"]="Kayıp Ejdercik",
+["Crimson Whelp"]="Al Ejdercik",
+["Reach Ram"]="Menzil Koçu",
+["Stonehide Boar"]="Taşderi Yaban Domuzu",
 
 }
