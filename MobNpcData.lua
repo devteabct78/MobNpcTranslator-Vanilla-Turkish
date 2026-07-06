@@ -2687,7 +2687,15 @@ MobNpcTranslator_Data = {
 ["Amberfin Murloc"]="Kehribaryüzgeç Murloc",
 ["Amberfin Lakestalker"]="Kehribaryüzgeç Gölsinsici",
 ["Amberfin Tidecaller"]="Kehribaryüzgeç Dalgaçağıran",
-
+["Goldpelt Grizzly"]="Altınpost Bozayısı",
+["Defias Arcanist"]="Defias Gizemcisi",
+["Defias Cutthroat"]="Defias Boğazkeseni",
+["Cutpurse Warren"]="Yankesici Warren",
+["Blackrock Poacher"]="Karakaçan Kaçak Avcısı",
+["Blackrock Marauder"]="Karakaçan Yağmacısı",
+["Blackrock Centurion"]="Karakaçan Yüzbaşısı",
+["Burnt Monk"]="Yanık Keşiş",
+["Twitching Corpse"]="Seyiren Ceset",
 
 
 
