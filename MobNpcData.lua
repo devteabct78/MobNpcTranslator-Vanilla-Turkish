@@ -2696,7 +2696,15 @@ MobNpcTranslator_Data = {
 ["Blackrock Centurion"]="Karakaçan Yüzbaşısı",
 ["Burnt Monk"]="Yanık Keşiş",
 ["Twitching Corpse"]="Seyiren Ceset",
-
+["Restless Sister"]="Huzursuz Kız Kardeş",
+["Wandering Carcass"]="Avare Kadavra",
+["Bristlewhisker Kobold"]="Sertbıyık Koboldu",
+["Bristlewhisker Digger"]="Sertbıyık Kazıcısı",
+["Bristlewhisker Overseer"]="Sertbıyık Sorumlusu",
+["Dark Iron Firecaller"]="Kara Demir Alevçağıran",
+["Dark Iron Golem"]="Kara Demir Golem",
+["Dark Iron Supervisor"]="Kara Demir Denetmeni",
+["Dark Iron Demolisher"]="Kara Demir Yıkıcı",
 
 
 }
