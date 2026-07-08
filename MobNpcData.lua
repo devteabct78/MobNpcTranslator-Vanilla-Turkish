@@ -2707,5 +2707,11 @@ MobNpcTranslator_Data = {
 ["Dark Iron Demolisher"]="Kara Demir Yıkıcı",
 ["Blackrock Pyremaster"]="Karakaya Ateş Ustası",
 ["Blackrock Conjurer"]="Karakaya Sihirbazı",
+["Old Hamilton"]="Yaşlı Hamilton",
+["Crackling Arcane Minion"]="Çatırtılı Gizem Kölesi",
+["Red Jenny"]="Kızıl Jenny",
+["Black Tournament Charger"]="Siyah Turnuva Savaş Atı",
+["Injured Lumberjack"]="Yaralı Keresteci",
+["Defias Infiltrator"]="Defias Sızıcı",
 
 }
