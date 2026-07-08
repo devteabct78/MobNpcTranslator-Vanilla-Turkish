@@ -2691,9 +2691,9 @@ MobNpcTranslator_Data = {
 ["Defias Arcanist"]="Defias Gizemcisi",
 ["Defias Cutthroat"]="Defias Boğazkeseni",
 ["Cutpurse Warren"]="Yankesici Warren",
-["Blackrock Poacher"]="Karakaçan Kaçak Avcısı",
-["Blackrock Marauder"]="Karakaçan Yağmacısı",
-["Blackrock Centurion"]="Karakaçan Yüzbaşısı",
+["Blackrock Poacher"]="Karakaya Kaçak Avcısı",
+["Blackrock Marauder"]="Karakaya Yağmacısı",
+["Blackrock Centurion"]="Karakaya Yüzbaşısı",
 ["Burnt Monk"]="Yanık Keşiş",
 ["Twitching Corpse"]="Seyiren Ceset",
 ["Restless Sister"]="Huzursuz Kız Kardeş",
@@ -2705,6 +2705,7 @@ MobNpcTranslator_Data = {
 ["Dark Iron Golem"]="Kara Demir Golem",
 ["Dark Iron Supervisor"]="Kara Demir Denetmeni",
 ["Dark Iron Demolisher"]="Kara Demir Yıkıcı",
-
+["Blackrock Pyremaster"]="Karakaya Ateş Ustası",
+["Blackrock Conjurer"]="Karakaya Sihirbazı",
 
 }
