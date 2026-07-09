@@ -2785,7 +2785,6 @@ MobNpcTranslator_Data = {
 ["Slavering Crag Coyote"]="Ağzı Sulanan Kayalık Çakalı",
 ["Hydromancer Finnigan"]="Sübüyücüsü Finnigan",
 ["SI:7 Operative"]="SI:7 Ajanı",
-["Hyphaenus"]="Hifas",
 ["Poisonous Mushroom Beast"]="Zehirli Mantar Canavarı",
 ["Stormreaver Outrunner"]="Fırtınayayan Habercisi",
 ["Abiding Crypt Keeper"]="Sadık Mahzen Koruyucusu",
